@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491327814 source:c:\users\oem\desktop\studia\programowanie\projekty - semestr 2\projekt nr 2 sem2\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stack>
+	<cstdio>
+	<cstdlib>
+
+1491242898 source:c:\users\oem\desktop\wektor wektorow\projekt nr 2 sem2\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<stack>
+	<cstdio>
+	<cstdlib>
+
